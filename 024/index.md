@@ -1,9 +1,11 @@
 # The Beginning
 > Discovered: October 22, 2021
+>
 > Tags: Script
 >
-> NOTE: This has gone a bit towards traditional fantasy, if not superpower fantasy, so bear that in mind as it breaks some of the pillars and also only barely resembles the other pillars. I imagined this is kinda in the future where the Ember is now just colloquially known as magic and they’ve discovered ways to better control it and thus be less deadly. People who went spelunking in ancient ruins were known as adventurers and often people who wielded these controlled powers to fight off the monsters within.
-* * *
+> Note for my writing buddy: This has gone a bit towards traditional fantasy, if not superpower fantasy, so bear that in mind as it breaks some of the pillars and also only barely resembles the other pillars. I imagined this is kinda in the future where the Ember is now just colloquially known as magic and they’ve discovered ways to better control it and thus be less deadly. People who went spelunking in ancient ruins were known as adventurers and often people who wielded these controlled powers to fight off the monsters within.
+>
+> [Background](./notes.md)
 
 A distant walk away from their humble home back in the village, two boys are dancing by the flickering campfire under the white glow of the full moon and the star-speckled night. They were doing their usual ventures away from home.
 
