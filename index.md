@@ -6,3 +6,6 @@
 1. [A Desert Scent](./020/index.md)
 1. [Sounds of New Port](./027/index.md)
 1. [Koda](./029/index.md)
+
+# Ado Frofa
+1. [The Beginning](./024/index.md)
