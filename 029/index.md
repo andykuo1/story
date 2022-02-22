@@ -1,0 +1,142 @@
+# Koda
+Discovered: January 27, 2022
+Tags: Script
+---
+
+Sianne and company arrive at the top of the flight of stairs, where they are confronted by a wooden door.
+
+Sianne: Ready?
+
+Norma nods and charges. They break through the door and into the inner sanctum.
+
+The room is made of stone. It is circular and the ceiling curves up into a dome. Bookshelves with magical artifacts, various scrolls, and pristine, velvet tapestry clutter the walls from floor to ceiling. In the center of the room, a robed wizard is casting a ritual, his eyes fervently reading through the tome in his hand. One of his eye has been clouded white and a scar laid across his cheek.
+
+But upon the door bursting open, Sianne was stunned in place. She could not believe it. She recognized the wizard.
+
+Sianne (under her breath): Koda?
+
+Then, seeing her newfound friends piling in, ready to attack him, she turns around and stands in front of Norma. Norma halts, confused.
+
+Sianne (to the party): Stop.
+
+Strah: Sianne, what are you doing!?
+
+The wizard peeks up from his book, surprised.
+
+Koda (under his breath): Sianne?
+
+Giles (to the party): He’s got her under a spell!
+
+Sianne: No I’m not. Stop right now and turn around. It’s not him.
+
+Tera (to Sianne): What do you mean? You saw the glyphs. Those were marks of fire by a trained wizard. Who else could it be?
+
+Strah (to Sianne): Are you a spy?
+
+Norma (impatient): The wizard must die!
+
+Sianne: STOP!
+
+Norma leaps across the room, but Sianne maneuvers Norma away and pins her to the ground. Norma tries to get back up, but Sianne pulls out a dagger and stabs to keep her down.
+
+Sianne: I’m sorry, Norma. Please stay down.
+
+Norma feels the wound with her hand and sees the blood, dumbfounded.
+
+Norma: You stabbed Norma.
+
+Sianne: I—
+
+Strah points his rapier at her. Sianne gets back up to defend Koda, who is continuing intently on finishing the ritual.
+
+Strah: Step aside, Sianne.
+
+Sianne: I won’t Strah. He’s not the one who did this. It has to be someone else.
+
+Tera: He’s a Wizard of the Crimson Court, Sianne. Look around you.
+
+Giles: Enough of this! If they got Sianne, then she goes too. We can’t let him escape.
+
+The party readies their weapon, just as Sianne readies hers. A beat.
+
+Koda (to himself): Sianne... Why...
+
+And the party leaps forward and Sianne fends them off. They fight, but Sianne is fighting a losing battle. But not long after, the ritual completes and Koda grabs Sianne to teleport them both away.
+
+Tera: Damn it!
+
+Strah: She’s gone...
+
+Giles rushes to Norma’s side and starts to triage the wound. He wipes his brow with his now bloodied hands.
+
+Giles: How can she do this to us!? We trusted her!!!
+
+Strah: ...she really was one of them...
+
+Strah stands there in silence, fists clenched. And thus, the remaining party is left in the vacant room with Sianne missing and Norma bleeding on the floor.
+
+Then, somewhere far away...
+
+Sianne is wounded and Koda hurries to fetch the royal healers.
+
+Koda: I... Sianne... I thought you left.
+
+Sianne: Yeah, I did. I... honestly didn’t know I was coming back.
+
+Koda: Um. How are you? What have you been doing since...then?
+
+Koda sits down beside her and tries to comfort her. But she shrugs his arm off.
+
+Silence.
+
+Sianne: Did you burn Hillbeak?
+
+Koda: I...
+
+Silence. The healers arrive to tend to her wounds, but she refuses. She stands.
+
+Koda: Sianne, lay down, you’re hurt.
+
+Sianne: Why. Koda. Why did you do it?
+
+Silence.
+
+Koda (to servants): Leave us.
+
+The servants hurry out obediently. A beat.
+
+Koda: It’s complicated Sianne. You wouldn’t understand.
+
+Sianne: I wouldn’t understand why you would burn down an entire village!? Do you know what you are saying right now? There were children still in there, Koda. Families that were just trying to get by— (she spots the pile of silver medallions on the table) You’re the one kidnapping the Forsworn as well? Is that you too?!
+
+Koda: There are things far greater things than us out there, Sianne. You don’t know what we know.
+
+Sianne: We? You’re one of *them* now? How—
+
+She stops.
+
+Sianne: How could you do this? We spent so long trying to get out of the dredges of this putrid city and these rich assholes just walk all over us without a blink of an eye. They don’t give a copper’s bucket how many of us die out there as long as their boots are licked clean and their coffers kept full. And now you’re wearing their robes and doing their dirty work— we tried so hard to get here to help the people back home. Home, Koda! Don’t you remember? How could—
+
+Koda: Back home? Sianne, the delusion that we convinced ourselves that what we wanted back then— it took me a while to realize this, but all you wanted was revenge. You were blinded by the hate for those who killed your family. What they did was wrong, but I only saw the truth after—
+
+Sianne: Don’t...you dare. You can’t say that.
+
+Koda: Hear me out Sianne, this hate that drives you— it blinded me too.
+
+Sianne: You can’t say that. You don’t get to say that.
+
+Silence.
+
+Sianne: You left us. I always thought it was my fault for forcing you to choose. But you never believed in us, did you? In our people. You just wanted power. Wanted to rub shoulders with the men that could raze villages and kill whoever they wanted.
+
+Koda: That’s not true, I... I’m sorry...(his stance changes) but there are greater forces at play here. There are truly evil people who want to destroy this world we built and, the people might not know it, but we are their only hope.
+
+Koda casts a spell and, immediately, Sianne falls down onto the bed, bound and tied. She is stunned. Koda whistles and the healers return to the room.
+
+Koda: And if we all play our role, we’ll save this city. A storm is coming and... we need to be ready. I understand you are angry and I get it. It took me a while, but you’ll come to understand too. We still want the same thing. I’ll give you some time to think about it.
+
+As Sianne struggles to escape the enchantment, the healers work diligently. Koda walks out of the room, followed quickly by the healers, having done their job.
+
+Koda: And if you care for your friends, tell them to stay out of this. I can’t guarantee their safety next time.
+
+And the door closes and locks.

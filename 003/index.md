@@ -1,0 +1,64 @@
+# One of Us
+Discovered: June 26, 2020
+Tags: Script
+---
+
+## EXT. CRIME SCENE - DAY
+
+The detective, an officer, and a field scientist stand over the body, perplexed.
+
+ONE-SHOT:
+
+This is an low angle shot from the the corpse’s POV. The sky is cloudy. The detective and the officer, both in uniform, is standing to the left, towering over the body and watching the scientist, in a white coat but casual wear underneath, crouched into the camera on the right, examining the body closely. The detective has his eyebrows furrowed, worried about the outcome, as he covers his face with his hand from the stench. The officer standing beside him is curious and leaning in, though respecting the work space. In her hand is her handy notebook, in which she is quickly writing something down. The scientist has a magnifying glass over her face, directed at the camera.
+
+![Shot Reference](https://paper-attachments.dropbox.com/s_1FF91A379D5075A5DC63B2D20F0DA5D46D3557CDFB3620E3A2F3558F31AD169F_1593039576699_Capture.PNG)
+
+Shot Reference
+
+**OFFICER DARA**
+
+Look at those teeth…
+
+**FIELD SCIENTIST**
+
+Yeah…
+
+Both of them are engrossed in the details of the body. The scientist is poking her pen around in the corpse’s mouth. The teeth have been severely corroded away. The sinew holding the lower jaw to the skull are stretched agape in frozen terror. The eyes have long dissolved away, leaving empty sunken sockets in its place. It does not seem like an easy death.
+
+The detective, having withstood the stench for more than he wanted to, cuts in.
+
+**DETECTIVE**
+
+(cough) Ugh. So what’s it look like doc?
+
+**FIELD SCIENTIST**
+
+Yeah… it’s teeth are corroded from the decontaminates. Probably from inhaling through the mouth. Looking at the number of contusions and fractures, looks like it has been tumbling in here for a while.
+
+**DETECTIVE**
+
+I mean. Is it--
+
+A beat.
+
+**DETECTIVE**
+
+Is he one of us?
+
+Another beat. She pulls back her pen, letting the jaws fall slack. She stands up.
+
+**FIELD SCIENTIST**
+
+Well… yeah. It’s human.
+
+The officer is startled at the answer.
+
+**OFFICER DARA**
+
+That’s impossible. I checked the scans myself. Vessel was empty leaving atmosphere… how’d he get in?
+
+**DETECTIVE**
+
+Okay. Run the checks again, yeah Dara? And run it by the dock master. And someone get me the ITCA (Interstellar Trade and Commerce Administration). I have a feeling they’re gonna want to know about this.
+
+# To Be Continued
