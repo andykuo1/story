@@ -1,7 +1,7 @@
 # One of Us
-Discovered: June 26, 2020
-Tags: Script
----
+> Discovered: June 26, 2020
+> Tags: Script
+* * *
 
 ## EXT. CRIME SCENE - DAY
 

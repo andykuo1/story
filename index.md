@@ -3,5 +3,6 @@
 1. [One of Us](./003/index.md)
 
 # Sianne and Company
-1. [Koda](./029/index.md)
+1. [A Desert Scent](./020/index.md)
 1. [Sounds of New Port](./027/index.md)
+1. [Koda](./029/index.md)

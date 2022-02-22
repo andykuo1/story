@@ -1,7 +1,7 @@
 # Koda
-Discovered: January 27, 2022
-Tags: Script
----
+> Discovered: January 27, 2022
+> Tags: Script
+* * *
 
 Sianne and company arrive at the top of the flight of stairs, where they are confronted by a wooden door.
 

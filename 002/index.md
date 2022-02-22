@@ -1,7 +1,7 @@
 # Captain's Quarters
-Discovered: June 23, 2020
-Tags: Script
----
+> Discovered: June 23, 2020
+> Tags: Script
+* * *
 
 ## INT. CAPTAIN’S QUARTERS
 

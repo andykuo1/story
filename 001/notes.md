@@ -1,8 +1,3 @@
-# Dead on Arrival
-Discovered: June 22, 2020
-Tags: Outline
----
-
 Space Freighter (Space Ship)
 
 AI/Robot — Pilot/ Cargo maintenance? (Zenyatta-like)
