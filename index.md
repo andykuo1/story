@@ -11,7 +11,6 @@
 
 ## Ado Frofa
 I have failed many times to tell this story correctly. [Here](./021/index.md) is one of the earlier attempts. The most recent attempt begins below.
-
 1. [The Beginning](./024/index.md)
 
 ## Into The Wild Unknown
@@ -20,8 +19,11 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 
 ## Dead On Arrival
 [This](./001/index.md) is the first page that started it all. All the rest then followed...
-
 1. [Captain's Quarters](./002/index.md)
 1. [One of Us](./003/index.md)
 1. [The Return](./004/index.md)
 1. [Procedure](./005/index.md)
+
+## Miscellaneous
+1. [Abandoned](./006/index.md)
+1. [The Lower Prison](./007/index.md)
