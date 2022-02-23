@@ -1,5 +1,8 @@
 # Stories Discovered By Time
 
+1. [To Sometimes End the World](./037/index.md)
+1. [Your Five Minutes of History](./040/index.md)
+1. [The Curse of Elleus](./032/index.md)
 1. [Captain's Quarters](./002/index.md)
 1. [One of Us](./003/index.md)
 1. [The Return](./004/index.md)
@@ -20,7 +23,13 @@
 1. [A Desert Scent](./020/index.md)
 1. [A Ghostly Past](./022/index.md)
 1. [One Slightly Over-Baked](./023/index.md)
+1. [Amara's Journal](./033/index.md)
+1. [The Curse of Luzitan](./034/index.md)
 1. [The Beginning](./024/index.md)
+1. [Legend of the Frail Prince](./035/index.md)
+1. [The Forgotten Lady of the Deep](./036/index.md)
+1. [A Cage of Silence](./038/index.md)
+1. [The Ifrits’ Law](./039/index.md)
 1. [Winter Solstice](./025/index.md)
 1. [A bus of strangers.](./026/index.md)
 1. [Sounds of New Port](./027/index.md)
@@ -28,9 +37,4 @@
 1. [Koda](./029/index.md)
 1. [Duck-billed Storks](./030/index.md)
 1. [Left behind](./031/index.md)
-1. [The Curse of Elleus](./032/index.md)
-1. [Amara's Journal](./033/index.md)
-1. [The Curse of Luzitan](./034/index.md)
-1. [Legend of the Frail Prince](./035/index.md)
-1. [The Forgotten Lady of the Deep](./036/index.md)
-1. [To Sometimes End the World](./037/index.md)
+
