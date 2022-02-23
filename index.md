@@ -17,6 +17,9 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 1. [Field of Stars](./012/index.md)
 1. [Cosmic Travelers](./013/index.md)
 
+## Rienne
+1. [A Blood Trail](./008/index.md)
+
 ## Dead On Arrival
 [This](./001/index.md) is the first page that started it all. All the rest then followed...
 1. [Captain's Quarters](./002/index.md)
@@ -27,3 +30,5 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 ## Miscellaneous
 1. [Abandoned](./006/index.md)
 1. [The Lower Prison](./007/index.md)
+1. [Spicy Chicken Wings](./009/index.md)
+1. [Caper](./010/index.md)

@@ -1,0 +1,110 @@
+# Caper
+> Discovered: July 12, 2020
+>
+> Tags: Script
+>
+> [Notes](./notes.md)
+
+## SCENE A - RIVER BANK - DAY
+
+PINOT, wearing a pair of black sunglasses with a similarly black attire, is walking with purpose through the crowd of people at the sunny banks of a river in Italy. Then, she turns into a shaded alleyway and walks down the stairs into the underground garage of a multi-floored bank.
+
+## SCENE AA - UNDERGROUND GARAGE - DAY
+
+She stops at the back door, putting her back against the wall, and waits…counting under her breath.
+
+**PINOT**
+
+Vingt-neuf. Vingt-huit. Vingt sept…
+
+Sounds of something moving in the air ducts…
+
+## SCENE B - AIR DUCTS - DAY
+
+CABERNET is crawling through the air ducts. He is fully masked and dressed in black to hide his identity. He eventually finds a vent opening and peers in.
+
+No one. But he waits…
+
+## SCENE C - HALLWAY - DAY
+
+MUSCAT, dressed as a janitor, is being led down a hallway by a BANK TELLER. They point out the mess on the carpet in the hallway, and Muscat nods and gets to work. He shoos the teller away, who is glad to get back to work.
+
+And thus, he begins and turns on the loud vacuum to clean the blatantly giant mess.
+
+Two SECURITY GUARDS are at the end of the hall, protecting the vault.
+
+## SCENE D - AIR DUCTS - DAY
+
+Hearing this, Cabernet pops open the vent, which falls and clatters to the ground, but the sound is drowned out by the even louder machine whirring.
+
+He slips down gently. He walks over to the wall of keys, takes one and slides it out under the door.
+
+## SCENE E - HALLWAY - DAY
+
+Muscat picks up the keys inconspicuously and continues further down the hall. Muscat winks at the guards as he passes them. One of them is a bit confused, but TERRET, in disguise, winks back.
+
+A beat.
+
+**SECURITY GUARD**
+
+Wait! Excuse me, sir. Can I see your ID?
+
+Muscat stops dead in his tracks. A beat. He turns around slowly.
+
+**MUSCAT**
+
+Of course!
+
+He fumbles around on his person, stalling.
+
+**MUSCAT**
+
+Oh! I must have left it outside.
+
+**SECURITY GUARD**
+
+Okay. Come with me. You stay here, I’ll send for someone to replace me.
+
+Terret nods.
+
+As Muscat is being escorted away back down the hall, he tosses the keys behind him for Terret, who catches it and stows it in her pocket.
+
+From the ceiling, you can hear Cabernet curse. He is watching from the vents. Terret subtly motions him to continue, which he does.
+
+## SCENE F - SECURITY ROOM - DAY
+
+Cabernet exits out of the vents once again, but this time it’s close to the floor. He enters a dark room with a control panel and monitors of security footage. Another security guard is sitting in a swivel chair, passed out. In front of him is a takeout order of some Chinese food.
+
+First, he stows the guard’s lunch away in his bag and replaces it with another nearly identical (cleaning up the evidence). Then, he pushes the security guard away to make room for himself to work the console.
+
+As expected, he deletes their activity, replaces certain sequences, and finally turns off the top floor.
+
+And then he grabs the keys from the guard’s belt and unlocks something on the panel.
+
+## SCENE G - UNDERGROUND GARAGE - DAY
+
+**PINOT**
+
+Quatre. Trois. Deux. Un.
+
+The door chimes and unlocks. Pinot takes the knob and opens the door. She walks in.
+
+[OUT OF BRAIN JUICE. Something cool and suave happens here. Pinot and Muscat end up on the top floor, having stolen the goods and handed them off to Cabernet. Cabernet has gotten the goods in his bag and is back in the vents climbing his way out. Terret is caught up with some trouble.]
+
+## SCENE X - TOP FLOOR - DAY
+
+Cabernet drops out of the vent from the ceiling with the black duffel bag. Pinot and Muscat are already there, trying to pick the lock of the upper floor office. They can hear the police on the lower floor approaching fast. They are running out of time.
+
+Terret arrives at the top of the stairs. Pinot and Muscat turn to her and shrug, silently wondering where she’s been. Terret does not reply and simply tosses them the keys. Pinot catches it and opens the door.
+
+The four of them enter the room. Cabernet barricade it behind them. Pinot heads over to the desk and searches the drawers, while Muscat and Terret are changing out their disguises to match the rest of the team: black.
+
+The police have surrounded the area and are rushing up the second floor. More are coming through the front and back door.
+
+A beat.
+
+## SCENE Y - RIVER BANK - DAY
+
+Suddenly, four black figures leap out of the top floor windows and do a backwards swan dive into the running river below and disappear with the goods. Success.
+
+# The End
