@@ -1,5 +1,7 @@
 # Stories Discovered So Far
 
+Go [here](./ordered.md) to see stories listed by time created.
+
 ## Sianne and Company
 1. [A Desert Scent](./020/index.md)
 1. [Sounds of New Port](./027/index.md)
