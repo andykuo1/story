@@ -17,7 +17,11 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 1. [Field of Stars](./012/index.md)
 1. [Cosmic Travelers](./013/index.md)
 
+## The Important Case of a Most Unfortunate Detective
+1. [The Egg Salad](./011/index.md)
+
 ## Rienne
+1. [Rienne](./017/index.md)
 1. [A Blood Trail](./008/index.md)
 
 ## Dead On Arrival
@@ -32,3 +36,6 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 1. [The Lower Prison](./007/index.md)
 1. [Spicy Chicken Wings](./009/index.md)
 1. [Caper](./010/index.md)
+1. [Those Lost in Time (and Those Not)](./015/index.md)
+1. [The Next One](./016/index.md)
+1. [Broken](./018/index.md)
