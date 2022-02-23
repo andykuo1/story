@@ -33,3 +33,4 @@
 1. [The Curse of Luzitan](./034/index.md)
 1. [Legend of the Frail Prince](./035/index.md)
 1. [The Forgotten Lady of the Deep](./036/index.md)
+1. [To Sometimes End the World](./037/index.md)

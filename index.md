@@ -15,8 +15,14 @@ Go [here](./ordered.md) to see stories listed by time created.
 1. [The Curse of Elleus](./032/index.md)
 1. [Amara's Journal](./033/index.md)
 1. [The Curse of Luzitan](./034/index.md)
-1. [Legend of the Frail Prince](./035/index.md)
 1. [The Forgotten Lady of the Deep](./036/index.md)
+
+* * *
+
+## Ifrits' Law
+1. [Legend of the Frail Prince](./035/index.md)
+1. [A Cage of Silence](./038/index.md)
+1. [The Ifrits’ Law](./039/index.md)
 
 * * *
 
@@ -63,6 +69,7 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 1. [The Lower Prison](./007/index.md)
 1. [Those Lost in Time (and Those Not)](./015/index.md)
 1. [Broken](./018/index.md)
+1. [To Sometimes End the World](./037/index.md)
 
 * * *
 
