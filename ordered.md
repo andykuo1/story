@@ -28,3 +28,6 @@
 1. [Koda](./029/index.md)
 1. [Duck-billed Storks](./030/index.md)
 1. [Left behind](./031/index.md)
+1. [Curse of Elleus](./032/index.md)
+1. [Amara's Journal](./033/index.md)
+1. [The Cursor of Luzitan](./034/index.md)

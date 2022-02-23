@@ -13,6 +13,8 @@ Go [here](./ordered.md) to see stories listed by time created.
 1. [Winter Solstice](./025/index.md)
 1. [Fortuna, My Only City](./028/index.md)
 1. [The Curse of Elleus](./032/index.md)
+1. [Amara's Journal](./033/index.md)
+1. [The Cursor of Luzitan](./034/index.md)
 
 * * *
 
