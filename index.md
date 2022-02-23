@@ -9,6 +9,7 @@
 
 # Valley of Elloria
 1. [Winter Solstice](./025/index.md)
+1. [Fortuna, My Only City](./028/index.md)
 
 * * *
 
@@ -58,6 +59,10 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 
 * * *
 
+1. [A bus of strangers.](./026/index.md)
+
+* * *
+
 # Experimental
 1. [Spicy Chicken Wings](./009/index.md)
 1. [Caper](./010/index.md)
@@ -66,6 +71,3 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 
 * * *
 
-## Poetry & Scenes
-
-1. [A bus of strangers.](./026/index.md)
