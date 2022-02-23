@@ -1,48 +1,48 @@
-## Stories Discovered So Far
+# Stories Discovered So Far
 
-# Sianne and Company
+## Sianne and Company
 1. [A Desert Scent](./020/index.md)
 1. [Sounds of New Port](./027/index.md)
 1. [Koda](./029/index.md)
 
 * * *
 
-# Valley of Elloria
+## Valley of Elloria
 1. [Winter Solstice](./025/index.md)
 1. [Fortuna, My Only City](./028/index.md)
 
 * * *
 
-# The Soon Facts and Accurates for Those Terribly Late and One Slightly Over-Baked
+## The Soon Facts and Accurates for Those Terribly Late and One Slightly Over-Baked
 1. [A Witch Burning](./019/index.md)
 1. [One Slightly Over-Baked](./023/index.md)
 
 * * *
 
-# Ado Frofa
+## Ado Frofa
 I have failed many times to tell this story correctly. [Here](./021/index.md) is one of the earlier attempts. The most recent attempt begins below.
 1. [The Beginning](./024/index.md)
 
 * * *
 
-# Into The Wild Unknown
+## Into The Wild Unknown
 1. [Field of Stars](./012/index.md)
 1. [Cosmic Travelers](./013/index.md)
 
 * * *
 
-# The Important Cases of a Most Unfortunate Detective
+## The Important Cases of a Most Unfortunate Detective
 1. [The Egg Salad](./011/index.md)
 
 * * *
 
-# Rienne
+## Rienne
 1. [Rienne](./017/index.md)
 1. [A Blood Trail](./008/index.md)
 
 * * *
 
-# Dead On Arrival
+## Dead On Arrival
 [This](./001/index.md) is the first page that started it all. All the rest then followed...
 1. [Captain's Quarters](./002/index.md)
 1. [One of Us](./003/index.md)
@@ -51,7 +51,7 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 
 * * *
 
-# Miscellaneous
+## Miscellaneous
 1. [Abandoned](./006/index.md)
 1. [The Lower Prison](./007/index.md)
 1. [Those Lost in Time (and Those Not)](./015/index.md)
@@ -68,3 +68,4 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 
 1. [A bus of strangers.](./026/index.md)
 1. [Duck-billed Storks](./030/index.md)
+1. [Left behind](./031/index.md)
