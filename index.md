@@ -59,11 +59,6 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 
 * * *
 
-1. [A bus of strangers.](./026/index.md)
-
-* * *
-
-# Experimental
 1. [Spicy Chicken Wings](./009/index.md)
 1. [Caper](./010/index.md)
 1. [The Next One](./016/index.md)
@@ -71,3 +66,5 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 
 * * *
 
+1. [A bus of strangers.](./026/index.md)
+1. [Duck-billed Storks](./030/index.md)
