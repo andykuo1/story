@@ -2,6 +2,8 @@
 > Discovered: July 9, 2021
 >
 > Tags: Outline
+>
+> [Notes](./notes.md)
 
 It was in the old ages before even all the Kyrians and all them folks arrived here. There was a noble family known as the Luzitans. They were kind and ruled with reason. A rare but prosperous trait to find in a ruling family, and they kept their people happy.
 

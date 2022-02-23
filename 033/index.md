@@ -2,6 +2,8 @@
 > Discovered: July 1, 2021
 >
 > Tags: Outline
+>
+> [Notes](./notes.md)
 
 The first few pages detail her futile attempts to get out of the tomb. But soon, her attention switches to her own preservation. It appears she dedicates the margins of the pages to tallies and notes about rations and tools. And in the passages, she begins to recount how she got here.
 
