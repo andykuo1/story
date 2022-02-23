@@ -4,6 +4,7 @@
 > Tags: Script
 >
 > [Notes](./notes.md)
+> [More Notes](./notes2.md)
 
 JOS regurgitates his morning breakfast into an empty barrel by a hut, but only then, take notice of a figure sat under the shade in the doorway, watching the scene. It dons a handcrafted plague doctor's mask and a black cloak. He is a bit taken aback by it but remains silent for fear of disturbing it.
 

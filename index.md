@@ -12,6 +12,7 @@ Go [here](./ordered.md) to see stories listed by time created.
 ## Valley of Elloria
 1. [Winter Solstice](./025/index.md)
 1. [Fortuna, My Only City](./028/index.md)
+1. [The Curse of Elleus](./032/index.md)
 
 * * *
 
