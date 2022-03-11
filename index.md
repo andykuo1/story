@@ -65,12 +65,10 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 * * *
 
 ## Miscellaneous
-1. [Abandoned](./006/index.md)
-1. [The Lower Prison](./007/index.md)
-1. [Those Lost in Time (and Those Not)](./015/index.md)
-1. [Broken](./018/index.md)
-1. [To Sometimes End the World](./037/index.md)
-1. [Your Five Minutes of History](./040/index.md)
+
+1. [A bus of strangers.](./026/index.md)
+1. [Duck-billed Storks](./030/index.md)
+1. [Left behind](./031/index.md)
 
 * * *
 
@@ -81,6 +79,9 @@ I have failed many times to tell this story correctly. [Here](./021/index.md) is
 
 * * *
 
-1. [A bus of strangers.](./026/index.md)
-1. [Duck-billed Storks](./030/index.md)
-1. [Left behind](./031/index.md)
+1. [Abandoned](./006/index.md)
+1. [The Lower Prison](./007/index.md)
+1. [Those Lost in Time (and Those Not)](./015/index.md)
+1. [Broken](./018/index.md)
+1. [To Sometimes End the World](./037/index.md)
+1. [Your Five Minutes of History](./040/index.md)
