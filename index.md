@@ -2,6 +2,10 @@
 
 Go [here](./ordered.md) to see stories listed by time created.
 
+## New
+
+1. [The journey to the swamp](./041/index.md)
+
 ## Sianne and Company
 1. [A Desert Scent](./020/index.md)
 1. [Sounds of New Port](./027/index.md)
