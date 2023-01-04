@@ -3,7 +3,7 @@
 Go [here](./group.md) to see stories listed by continuity.
 
 - [White Noise](./045/index.md)
-- 2023 ^
+- = 2023 ^
 - [Donia](./044/index.md)
 - [Stuck with Us](./043/index.md)
 - [A little too late in 1987](./042/index.md)
@@ -15,7 +15,7 @@ Go [here](./group.md) to see stories listed by continuity.
 - [Sounds of New Port](./027/index.md)
 - [A bus of strangers.](./026/index.md)
 - [Winter Solstice](./025/index.md)
-- 2022 ^
+- = 2022 ^
 - [The Ifrits’ Law](./039/index.md)
 - [A Cage of Silence](./038/index.md)
 - [The Forgotten Lady of the Deep](./036/index.md)
@@ -26,6 +26,7 @@ Go [here](./group.md) to see stories listed by continuity.
 - [One Slightly Over-Baked](./023/index.md)
 - [A Ghostly Past](./022/index.md)
 - [A Desert Scent](./020/index.md)
+- = 2021 ^
 - [A Witch Burning](./019/index.md)
 - [Broken](./018/index.md)
 - [Rienne](./017/index.md)
@@ -43,9 +44,9 @@ Go [here](./group.md) to see stories listed by continuity.
 - [The Return](./004/index.md)
 - [One of Us](./003/index.md)
 - [Captain's Quarters](./002/index.md)
-- 2021 ^
+- = 2020 ^
 - [Your Five Minutes of History](./040/index.md)
-- 2019 ^
+- = 2019 ^
 - [The Curse of Elleus](./032/index.md)
 - [To Sometimes End the World](./037/index.md)
-- 2018 ^
+- = 2018 ^
