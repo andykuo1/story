@@ -2,11 +2,11 @@
 
 Go [here](./group.md) to see stories listed by continuity.
 
-- [White Noise](./45/index.md)
+- [White Noise](./045/index.md)
 - 2023 ^
-- [Donia](./44/index.md)
-- [Stuck with Us](./43/index.md)
-- [A little too late in 1987](./42/index.md)
+- [Donia](./044/index.md)
+- [Stuck with Us](./043/index.md)
+- [A little too late in 1987](./042/index.md)
 - [The journey to the swamp](./041/index.md)
 - [Left behind](./031/index.md)
 - [Duck-billed Storks](./030/index.md)
