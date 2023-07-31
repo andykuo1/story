@@ -22,7 +22,7 @@ title: Andrew Kuo
 email: andykuo1@duck.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of stories discovered by Andrew's squishy brain.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "story" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: andykuo1
 
