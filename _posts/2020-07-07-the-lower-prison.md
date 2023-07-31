@@ -1,9 +1,8 @@
-# The Lower Prison
-> Discovered: July 7, 2020
->
-> Tags: Script
->
-> [Notes](./notes.md)
+---
+layout: post
+title: "The Lower Prison"
+categories: scene
+---
 
 ## SCENE A - INT. CAGES CHAMBER
 

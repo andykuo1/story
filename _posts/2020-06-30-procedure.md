@@ -1,9 +1,8 @@
-# Procedure
-> Discovered: June 30, 2020
->
-> Tags: Script
->
-> [Notes](./notes.md)
+---
+layout: post
+title: "Procedure"
+categories: scene
+---
 
 ## SCENE 1 - EXT. SHIP DOCKS - DAY
 

@@ -1,9 +1,8 @@
-# Spicy Chicken Wings
-> Discovered: July 9, 2020
->
-> Tags: Script
->
-> [Notes](./notes.md)
+---
+layout: post
+title: "Spicy Chicken Wings"
+categories: scene
+---
 
 Spencer loathed spicy food. It makes no sense, he has told everyone. It’s just mouth pain.
 

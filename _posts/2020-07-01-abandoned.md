@@ -1,7 +1,8 @@
-# Abandoned
-> Discovered: July 1, 2020
->
-> Tags: Script
+---
+layout: post
+title: "Abandoned"
+categories: scene
+---
 
 ## SCENE A - EXT. FAIRGROUNDS ENTRANCE
 

@@ -1,3 +1,15 @@
+# Adventures of Robart & Fonticus
+> Discovered: March 21, 2021
+>
+> Tags: Incomplete, Outline
+>
+> [Outline](./outline.md)
+> [Notes](./notes.md)
+
+*This is another attempt at "Ado Fropha". One day there'll be a complete script for it. Until then...*
+
+---
+
 Fonticus (Fonty), Robart (Rob), and Claratine (Clara) are in a battle of gods with Aventicas (Avy).
 
 Fonticus and Robart started their adventure out to reclaim their dreams of fairness and adventure. They hold on to their code of honor and set out to help right the wrongs of the people.

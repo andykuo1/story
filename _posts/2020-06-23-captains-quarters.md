@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Captain's Quarters"
-date: 2020-05-23
 categories: scene
 ---
 

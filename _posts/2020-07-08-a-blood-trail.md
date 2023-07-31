@@ -1,9 +1,8 @@
-# A Blood Trail
-> Discovered: July 8, 2020
->
-> Tags: Script
->
-> [Notes](./notes.md)
+---
+layout: post
+title: "A Blood Trail"
+categories: scene
+---
 
 ## SCENE A - INT. DERELICT HALLWAY
 
