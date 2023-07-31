@@ -1,3 +1,3 @@
 # Story
 
-This is a repo to keep and publish all stories discovered by andykuo1.
+A collection of stories discovered by Andrew's squishy brain.
