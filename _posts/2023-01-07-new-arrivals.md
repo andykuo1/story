@@ -1,7 +1,8 @@
-# New Arrivals
-> Discovered: January 7, 2023
->
-> Tags: Scene
+---
+layout: post
+title: "New Arrivals"
+categories: scene
+---
 
 A boy of 14 looks beyond into the canyons from behind his desert rock.
 

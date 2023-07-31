@@ -1,7 +1,8 @@
-# Goat's Milk
-> Discovered: January 9, 2023
->
-> Tags: Scene
+---
+layout: post
+title: "Goat's Milk"
+categories: scene
+---
 
 Two vagabonds are on an open train cart. They are riding with the cargo across an open desert. It is hot.
 
