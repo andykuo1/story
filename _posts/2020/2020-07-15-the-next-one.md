@@ -1,7 +1,8 @@
-# The Next One
-> Discovered: July 15, 2020
->
-> Tags: Script
+---
+layout: post
+title: "The Next One"
+categories: scene
+---
 
 ## SCENE A - MOVIE THEATER - PUBLIC BATHROOM - NIGHT
 

@@ -1,7 +1,8 @@
-# A little too late in 1987
-> Discovered: October 27, 2022
->
-> Tags: Scene
+---
+layout: post
+title: "A little too late in 1987"
+categories: scene
+---
 
 AUDITORIUM
 

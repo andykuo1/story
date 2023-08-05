@@ -1,9 +1,8 @@
-# A Desert Scent
-> Discovered: March 19, 2021
->
-> Tags: Script
->
-> [Notes](./notes.md)
+---
+layout: post
+title: "A Desert Scent"
+categories: scene
+---
 
 The lazy, hot air clings to the desert inhabitants of the Grove of Birds, squirming about for shade and ventilation to escape the sluggish heat. The regularly busy thoroughfare of the marketplace is now replaced with unadorned stalls and emptied husks of forgotten potential goods. Outside on the streets, those better prepared have since vacated to cooler destinations, but those less fortunate, or more spontaneous, are continuing to seek refuge.
 

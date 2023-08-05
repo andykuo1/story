@@ -1,7 +1,8 @@
-# Stuck with Us
-> Discovered: October 31, 2022
->
-> Tags: Scene
+---
+layout: post
+title: "Stuck with Us"
+categories: scene
+---
 
 (Two figures in a dark tunnel beneath the ground. One of them is chipping away at the rock with a shovel, making little progress. The other is sitting on the ground, rummaging through the long-decayed corpses on the floor.)
 

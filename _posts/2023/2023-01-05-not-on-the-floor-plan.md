@@ -1,7 +1,8 @@
-# Not on the Floor Plan
-> Discovered: January 5, 2023
->
-> Tags: Story
+---
+layout: post
+title: "Not on the Floor Plan"
+categories: short-story
+---
 
 “And here is the living room. With a fully-functional fireplace and chimney,” said Rena, as she gestures, as she has done a dozen time this week, towards the open room.
 

@@ -1,9 +1,8 @@
-# A Witch Burning
-> Discovered: December 20, 2020
->
-> Tags: Script
->
-> [Notes](./notes.md)
+---
+layout: post
+title: "A Witch Burning"
+categories: scene
+---
 
 The sun shone this morning more fervently than the months before. Its gold rays cut through the dissipating storm clouds from the previous night, kissing the clay and stone that formed the dozen homesteads of this village. Life seems to be returning to the sleeping settlement; a rebirth has begun. The once deathly silence is broken by wandering birds in search of a snack.
 

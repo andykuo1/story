@@ -1,10 +1,8 @@
-# Adventures of Robart & Fonticus
-> Discovered: March 21, 2021
->
-> Tags: Incomplete, Outline
->
-> [Outline](./outline.md)
-> [Notes](./notes.md)
+---
+layout: post
+title: "Adventures of Robart & Farticus"
+categories: outline
+---
 
 *This is another attempt at "Ado Fropha". One day there'll be a complete script for it. Until then...*
 

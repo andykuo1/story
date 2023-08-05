@@ -1,7 +1,8 @@
-# Field of Stars
-> Discovered: July 13, 2020
->
-> Tags: Script
+---
+layout: post
+title: "Field of Stars"
+categories: scene
+---
 
 ## SCENE A - DEEP OCEAN FLOOR
 

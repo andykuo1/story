@@ -1,8 +1,9 @@
-# Cosmic Travelers
-> Discovered: July 14, 2020
->
-> Tags: Script
->
+---
+layout: post
+title: "Cosmic Travelers"
+categories: scene
+---
+
 > NEEDS REVISION! Romil should have some conflict and not just be exposition.
 
 Two brothers, one around eleven and the other around sixteen, are stoking a campfire at the edge of the woods. In the distance, is their village, going to sleep.

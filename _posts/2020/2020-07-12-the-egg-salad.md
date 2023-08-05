@@ -1,9 +1,8 @@
-# The Egg Salad
-> Discovered: July 12, 2020
->
-> Tags: Script
->
-> [Notes](./index.md)
+---
+layout: post
+title: "The Egg Salad"
+categories: scene
+---
 
 Something extraordinary happened today. I find it hard to believe myself, but it’s true. It all seemed so serendipitous that it’s probably a safe bet that I am in some bed-ridden coma having this weird fever dream, or, more accurately, this twisted nightmare. If you had tried to explain to me that this, of all things, had happened to me, of all people, I would have called you crazy.
 

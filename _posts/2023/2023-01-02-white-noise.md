@@ -1,7 +1,8 @@
-# White Noise
-> Discovered: January 2, 2023
->
-> Tags: Story
+---
+layout: post
+title: "White Noise"
+categories: short-story
+---
 
 My mom asked me a question today. It was benign.
 

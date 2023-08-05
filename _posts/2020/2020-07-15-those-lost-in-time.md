@@ -1,7 +1,8 @@
-# Those Lost in Time (and Those Not)
-> Discovered: July 15, 2020
->
-> Tags: Outline
+---
+layout: post
+title: "Those Lose in Time (and Those Not)"
+categories: outline
+---
 
 ## DAUGHTER’S POV.
 
