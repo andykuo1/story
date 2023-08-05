@@ -1,7 +1,8 @@
-# Duck-billed Storks
-> Discovered: January 31, 2022
->
-> Tags: Poetry
+---
+layout: post
+title: "Duck-billed Storks"
+categories: poetry
+---
 
 Once upon a time,
 

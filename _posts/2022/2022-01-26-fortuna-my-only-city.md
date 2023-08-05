@@ -1,7 +1,8 @@
-# Fortuna, My Only City
-> Discovered: January 26, 2022
->
-> Tags: Poetry
+---
+layout: post
+title: "Fortuna, My Only City"
+categories: poetry
+---
 
 Leave yer council, yer lover, yer call.
 

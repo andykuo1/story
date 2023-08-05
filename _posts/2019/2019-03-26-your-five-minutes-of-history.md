@@ -1,15 +1,8 @@
 ---
 layout: post
 title: "Your Five Minutes of History"
-date: 2019-03-26
 categories: short-story
-tags: "2019"
 ---
-
-# Your Five Minutes of History
-> Discovered: March 26, 2019
->
-> Tags: Story
 
 I was led to my residence by the waning sunlight. The night has slipped past the horizon and it, reluctantly, dragged the perforated cellophane of twilight along to hide the workday sun. After a day of labor and a natural obedience to exhaustion, all are easily encouraged to retire home.As the door sealed society behind me, a silent sigh escaped my chest.
 

@@ -1,7 +1,8 @@
-# The journey to the swamp
-> Discovered: October 24, 2022
->
-> Tags: Poetry
+---
+layout: post
+title: "The journey to the swamp"
+categories: poetry
+---
 
 The evening sunlight smears the horizon across scattering waves of an open sea. By gentle existence of its own delphic rhythm, it is without knowing-- certain. The shuffled pebbles of Shale and the blooming clouds of Aster will lie still in this seeming contradiction: how will every angle, of broken fragments and unfettered chaos, find purchase to relieve these unbodied shadows?
 

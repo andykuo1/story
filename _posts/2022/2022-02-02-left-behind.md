@@ -1,7 +1,8 @@
-# Left behind
-> Discovered: February 2, 2022
->
-> Tags: Poetry
+---
+layout: post
+title: "Left behind"
+categories: poetry
+---
 
 No one left behind?
 I am not;
